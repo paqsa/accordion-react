@@ -1,0 +1,7 @@
+.question-div {
+  border-bottom: 1px solid red;
+}
+
+.question {
+  cursor: pointer;
+}
